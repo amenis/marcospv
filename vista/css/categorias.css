@@ -1,0 +1,15 @@
+.wrapper {
+    position: absolute;
+    left: 260px;
+    display: grid;
+    grid-template-columns: auto auto 120px;
+    grid-template-rows: 80px 550px;
+    grid-gap: 10px;
+}
+
+#box2 {
+    grid-column: 1/4;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: white;
+}

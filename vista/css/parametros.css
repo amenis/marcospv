@@ -1,0 +1,16 @@
+.wrapper{
+    display: grid;
+    grid-template-rows: 80px 450px;
+    grid-gap: 10px;
+}
+
+#box-forms{
+    background-color: white;
+}
+
+#params{
+    margin-top: 30px;
+    margin-left: 120px;
+    float: left;
+    width: 80%;
+}

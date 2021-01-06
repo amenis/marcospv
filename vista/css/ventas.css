@@ -1,0 +1,40 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 300px 400px;
+    grid-gap: 15px;
+}
+
+.box {
+    background-color: white;
+}
+
+.row-box1 {
+    display: grid;
+    grid-template-columns: 366px 366px 366px;
+    grid-gap: 15px;
+}
+
+#sch-art {
+    float: left;
+    width: 366px;
+    margin-top: 15px;
+}
+
+#sch-art span {
+    text-align: center;
+    color: white;
+    font-size: 10pt;
+}
+
+#d-caja {
+    margin-top: 10px;
+    margin-left: 25px;
+    width: 320px;
+    height: 210px;
+    float: left;
+}
+
+#d-vtas {
+    float: left;
+}

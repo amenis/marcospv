@@ -1,0 +1,22 @@
+         
+             
+ESTOY MEDIO PENDEJA
+
+Domicilio : y me vale
+Telefono : 6666
+Fecha : 2021-01-03 03:55:08
+Empleado: Maria
+Ticket : 8
+----------------------------------
+
+Cantidad     Descripcion     Precio
+
+   1          balon de futb   800
+   1          pelota de ten   60
+
+----------------------------------
+
+
+Total :      0
+Pago con :   860
+Cambio :     860

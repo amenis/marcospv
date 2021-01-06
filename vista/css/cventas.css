@@ -1,0 +1,36 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 600px 520px;
+    grid-template-rows: 50px 150px 430px;
+    grid-gap: 20px;
+}
+
+#box1 {
+    grid-column: 1/3;
+}
+
+#box4 {
+    margin-top: 20px;
+    grid-column: 1/3;
+    overflow: auto;
+}
+
+#byDates {
+    width: 500px;
+    margin-top: 20px;
+    float: left;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+#ByNumber {
+    margin-top: 10px;
+    width: 500px;
+    display: none;
+    float: left;
+    padding: 20px;
+}
+
+.btn-sm {
+    width: 120px;
+}

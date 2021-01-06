@@ -1,0 +1,17 @@
+.wrapper {
+    position: absolute;
+    left: 260px;
+    margin-top: 2%;
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto 120px;
+    grid-template-rows: 80px 550px;
+    grid-gap: 10px;
+    padding: 3%;
+}
+
+#box2{
+    padding: 20px;
+    grid-column: 1 / 4;
+    background-color: white;
+}

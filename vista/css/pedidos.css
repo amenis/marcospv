@@ -1,0 +1,15 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: auto auto 120px;
+    grid-template-rows: 80px 550px;
+    grid-gap: 10px;
+    margin-left: 25px;
+}
+
+#info{
+    background-color: white;
+    padding: 20px;
+    grid-row: 2;
+    grid-column: 1 / 4;
+
+}

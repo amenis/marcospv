@@ -1,0 +1,26 @@
+         
+CORTE DE CAJA             
+Fecha : 2021-01-03 03:42:38
+Empleado: Maria
+
+----------------------------------
+
+Ventas del dia                        
+
+Total         7700
+----------------------------------
+
+Cuenta de Abono                        
+
+Total         1400
+----------------------------------
+
+Cuenta de Gastos                       
+
+Internet     400
+Otros        1000
+----------------------------------
+
+Corte                          
+
+Total:       6300
