@@ -22,7 +22,14 @@
     <div class="dropdown-container">
         <a href="<?php echo urlsite;?>clientes"><i class="fa fa-address-book mr-3"></i> Alta de Clientes</a>
     </div>
-
+    
+    <a href="#" class="sider-dropdown">
+        <span class="fa fa-trophy mr-3"></span> Proveedores
+    </a>
+    <div class="dropdown-container">
+        <a href="<?php echo urlsite;?>proveedores"><i class="fa fa-address-book mr-3"></i> Alta de Proveedores</a>
+    </div>
+    
     <a href="#" class="sider-dropdown"><span class="fa fa-money-bill mr-3"></span> Operaciones</a>
     <div class="dropdown-container">
         <a href="<?php echo urlsite;?>apartados"><i class="fa fa-list-alt mr-3"></i> Apartados</a>
